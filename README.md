@@ -1,24 +1,18 @@
-# README
+## RubyBlog
+## Overview
+<p>
+RubyBlog is a web application made using ruby on rails where users can login/signup and create multiple posts. Users can create, read, update and delete their posts as well. 
+</p>
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Installation
+Check out the official documentation for installing **Ruby** and **Rails** in your system -
+    https://guides.rubyonrails.org/getting_started.html
 
-Things you may want to cover:
+Clone the repository
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+    https://github.com/abhinav2499/E-learn.git
+    
+ ## Running on local server
+ Run the rails server using the following command - 
+    
+    rails s
