@@ -8,7 +8,7 @@ RubyBlog is a web application made using ruby on rails where users can login/sig
 Check out the official documentation for installing **Ruby** and **Rails** in your system -
     https://guides.rubyonrails.org/getting_started.html
 
-Clone the repository
+Clone the repository and install the requirements
 
     https://github.com/abhinav2499/E-learn.git
     
