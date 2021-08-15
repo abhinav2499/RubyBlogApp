@@ -1,9 +1,9 @@
-<h1 align="center">Listing all articles</h1>
+<h1 align="center">All articles</h1>
 <% @article.each do |article| %>
  <div class="row">
   <div class="col-xs-8 col-xs-offset-2">
   <div class="card text-dark bg-light mb-3">
-  <h4 class="card-header"><%= link_to article.title, article_path(article) %></h4>
+  <h4 class="card-header"><strong><%= link_to article.title, article_path(article) %></strong></h4>
   <div class="card-body">
   <%= truncate(article.description, length: 100) %>
   <hr>
